@@ -1,0 +1,13 @@
+.cproject
+.libs/
+.project
+.settings/
+.vagrant/
+Vagrantfile
+config.cfg
+logger.properties
+nudge-agent
+mod_nudge.la
+mod_nudge.lo
+mod_nudge.o
+mod_nudge.slo
